@@ -1,5 +1,5 @@
 #include <xc.h>
-#include<stdio.hh>
+#include<stdio.h>
 #include"DHT_TIMER.h"
 #include"LCD_DEC.h"
 #include"DHT_TEMP_READ.h"
